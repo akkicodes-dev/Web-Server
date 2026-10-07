@@ -1,0 +1,21 @@
+# Compiled Java classes
+*.class
+
+# JMeter results & reports (regenerate locally)
+jmeter/*.jtl
+jmeter/report*/
+jmeter.log
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.project
+.classpath
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# JMeter zip
+*.zip
